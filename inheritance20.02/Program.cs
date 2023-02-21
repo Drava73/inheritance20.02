@@ -9,7 +9,7 @@ namespace inheritance20._02
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             #region 1
             /*            Product prod1 = new Product();
                         prod1 += 1;
